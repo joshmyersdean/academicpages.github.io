@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
+Josh Myers-Dean:
+  name        : ""
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  email       : "first dot last atsign colorado dot edu"
+  bio         : "Josh Myers-Dean"
+  avatar      : "profile.png"
+  google_scholar: "https://scholar.google.com/citations?user=yR_7MCoAAAAJ&hl=en"
   twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
   google_plus : "Name"
