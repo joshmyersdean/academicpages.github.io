@@ -17,4 +17,5 @@ Grad application season is tough and I would be happy to chat with anyone thinki
 The GRFP has afforded me many opportunities so far so I encourage anyone who is elligible to apply! I am happy to chat abou the application process and have made my research statement available on this website. I am also happy to share my reviews and personal statement upon request.
 
 ## Updates
-- Gave a talk at [The Teen Science Cafe](https://teensciencecafe.org/cafes/science-discovery-teen-cafe/) about my research, my path to becoming a graduate student, and accessibility! 
+- 3/01/2022: I'll be joining [Adobe Research](https://research.adobe.com/) this summer to work on computational photography problems with [Brian Price](https://www.brianpricephd.com/)!
+- 2/24/2022: Gave a talk at [The Teen Science Cafe](https://teensciencecafe.org/cafes/science-discovery-teen-cafe/) about my research, my path to becoming a graduate student, and accessibility! 
