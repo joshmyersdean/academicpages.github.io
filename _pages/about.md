@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## About
-Hello! I am a first year Computer Science Ph.D. student at CU Boulder studying computer vision. My main interests lie in computational photography, {semantic | instance} segmentation, vision + language, and few-shot/representation learning. I am primarily interested in working on applications that have primary or downstream potential for increasing social equity and accessibility. I am fortunate to be supported by the NSF through a GRFP Fellowship and am advised by [Dr. Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html). In the past I have interned at [PNNL](https://www.pnnl.gov/)  for Natural Language Processing under [Dr. Karl Pazdernik](https://www.linkedin.com/in/karl-pazdernik-1283b392/) and spent my undergrad studying computer vision under [Dr. Scott Wehrwein](https://facultyweb.cs.wwu.edu/~wehrwes/) and Bioinformatics under [Dr. Filip Jagodzinski](https://facultyweb.cs.wwu.edu/~jagodzf/). In my free time I love trail running, skiing, sufferfesting, cooking, and just generally being outside!
+Hello! I am a first year Computer Science Ph.D. student at CU Boulder studying computer vision. My main interests lie in computational photography, segmentation, and few-shot/representation learning. I am fortunate to be supported by the NSF through a GRFP Fellowship and am advised by [Dr. Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html). In the past I have interned at [Adobe Research](https://research.adobe.com/) for object selection under [Dr. Brian Price](https://www.brianpricephd.com/), [PNNL](https://www.pnnl.gov/) for Natural/Spoken Language Processing under [Dr. Karl Pazdernik](https://www.linkedin.com/in/karl-pazdernik-1283b392/) and spent my undergrad studying Computer Vision under [Dr. Scott Wehrwein](https://facultyweb.cs.wwu.edu/~wehrwes/) and Bioinformatics under [Dr. Filip Jagodzinski](https://facultyweb.cs.wwu.edu/~jagodzf/). In my free time I love trail running, skiing, sufferfesting, cooking, and just generally being outside!
 
 
 ## Outreach
-I am looking to get involved in low income/underrepresented high schools in the Front Range for CS education - let's chat!
+I am looking to get involved in low income/underrepresented high schools in the Front Range for CS education - let's chat! Fall semester of 2022 I will be involved with the [ITLP](https://itll.colorado.edu/)!
 
 ## Grad Application Help
 Grad application season is tough and I would be happy to chat with anyone thinking of applying to Ph.D. programs! I can help review materials, share my own materials, or just answer general grad school questions. As a first generation college student I know there are a lot of unspoken rules out there and I would be happy to help anyone navigate them! 
