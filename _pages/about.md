@@ -15,7 +15,7 @@ Hello! I am a first year Computer Science Ph.D. student at CU Boulder studying c
 I am looking to get involved in low income/underrepresented high schools in the Front Range for CS education - let's chat! Fall semester of 2022 I will be involved with the [ITLP](https://itll.colorado.edu/)!
 
 ## Grad Application Help
-Grad application season is tough and I would be happy to chat with anyone thinking of applying to Ph.D. programs! I can help review materials, share my own materials, or just answer general grad school questions. As a first generation college student I know there are a lot of unspoken rules out there and I would be happy to help anyone navigate them! 
+Grad application season is tough and I would be happy to chat with anyone thinking of applying to Ph.D. programs! I can help review materials, share my own materials, or just answer general grad school questions. As a first generation college student I know there are a lot of unspoken rules out there and I would be happy to help anyone navigate them! While it is not perfect, CU Boulder does offer an [admission fee waiver](https://www.colorado.edu/engineering/admissions/graduate-students/graduate-application-fee-waiver) for those who are elligible.
 
 ## GRFP Help
 The GRFP has afforded me many opportunities so far so I encourage anyone who is elligible to apply! I am happy to chat about the application process and have made my research statement available on this website. I am also happy to share my reviews and personal statement upon request.
