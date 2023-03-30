@@ -7,7 +7,7 @@ redirect_from:
   - /grfp
 ---
 
-Here is a copy of my GRFP research proposal! I hope that anyone finds this helpful and I am happy to share my reviews and personal statement upon request.
+Here is a copy of my GRFP research proposal! I hope that anyone finds this helpful and I am happy to share my reviews and personal statement upon request. Note that the formatting for this document does not match what the NSF currently expects.
 
 <iframe src="/files/pdf/GRFP_prop.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
