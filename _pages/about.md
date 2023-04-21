@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About
-I am a second-year Computer Science Ph.D. student at the University of Colorado Boulder, specializing in computer vision. My research interests include image segmentation and computational photography. I am grateful to be supported by the National Science Foundation through a GRFP Fellowship, and I am advised by [Dr. Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html).
+I am a second-year Computer Science Ph.D. student at the University of Colorado Boulder, specializing in computer vision. My research interests include (few-shot, interactive, part) segmentation, and image captioning. More broadly, I am excited about Computer Vision as a whole. I am grateful to be supported by the National Science Foundation through a GRFP Fellowship, and I am advised by [Dr. Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html).
 
 In the past, I have had the opportunity to intern at [Adobe Research](https://research.adobe.com/), where I worked on interactive segmentation under [Dr. Brian Price](https://www.brianpricephd.com/) and Dr. Yifei Fan, as well as at Pacific Northwest National Laboratory ([PNNL](https://www.pnnl.gov/)), where I focused on natural/spoken language processing under [Dr. Karl Pazdernik](https://www.linkedin.com/in/karl-pazdernik-1283b392/) and VR/AR applications. My undergraduate research at Western Washington University ([WWU](https://cs.wwu.edu/)) included Computer Vision with [Dr. Scott Wehrwein](https://facultyweb.cs.wwu.edu/~wehrwes/), Bioinformatics with [Dr. Filip Jagodzinski](https://facultyweb.cs.wwu.edu/~jagodzf/), and Computer Science Education with [Dr. Qiang Hao](https://qhao.info/). While at WWU I worked as a web developer to make websites more accessible. 
 
