@@ -25,6 +25,7 @@ Grad application season is tough and I would be happy to chat with anyone thinki
 The GRFP has afforded me many opportunities so far so I encourage anyone who is elligible to apply! I am happy to chat about the application process and have made my research statement available on this website. I am also happy to share my reviews and personal statement upon request.
 
 ## Updates
+- 10/24/2023: [1 paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q0kmtR4AAAAJ&citation_for_view=q0kmtR4AAAAJ:UeHWp8X0CEIC) accepted to WACV 2024! Camera ready version will be on arXiv soon.
 - 5/2/2023: Gave a guest lecture for CSCI 5722: Computer Vision about Segment Anything (SAM) and how it has impacted the vision community!
 - 4/7/2023: I received a best "Work In Progress" award (4 winners) for our work on interactive segmentation from our department's [annual research expo](https://www.colorado.edu/cs/2023/02/28/computer-science-graduate-research-expo) as well as a [departmental service award](https://www.colorado.edu/cs/news-events/student-awards#outstanding_service-939)!
 - 1/13/2023: I'll be joining the [Allen Institute for AI](https://allenai.org/) on the [PRIOR](https://prior.allenai.org/) team with [Favyen Bastani](https://favyen.com/) this summer! Excited to be back in Seattle!
